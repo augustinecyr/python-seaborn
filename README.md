@@ -6,3 +6,4 @@ Basics of Data Visualisation using Seaborn
 - Categorical Plots
 - Matrix Plots
 - Grids
+- Regression Plots
